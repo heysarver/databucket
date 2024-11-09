@@ -1,4 +1,4 @@
-# Databucket
+# DataBucket
 
 A simple Python library for S3 bucket operations using config from environment variables.
 
